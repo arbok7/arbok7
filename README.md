@@ -3,7 +3,7 @@
   <tr>
     <td>
       - 👋 Hi, I’m Saurabh<br>
-      - 🌱 I’m currently learning C++.<br>
+      - 🌱 I’m currently struggling with DSA with C++.<br>
       - 📫 How to reach me:<br>
       - [linkedin](https://www.linkedin.com/in/arbok/)<br>
     </td>
